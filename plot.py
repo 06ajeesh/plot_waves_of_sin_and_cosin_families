@@ -22,7 +22,6 @@ axs[0,0].legend()
 axs[0,1].plot(t,y2,label='cos')
 axs[0,1].set_title('cose wave')
 axs[0,1].grid(True,color="red")
-axs[0,1].()
 axs[0,1].legend()
 
 axs[1,0].plot(t,y3,label='der of sin')
